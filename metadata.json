@@ -1,0 +1,7 @@
+{
+  "name": "Vending Analytics & Monitoring",
+  "description": "Interactive map and AI assistant for optimizing vending machine placement in universities, featuring pedestrian traffic analysis and location consulting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
